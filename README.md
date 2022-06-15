@@ -31,7 +31,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### Jekyll Themes
 
 
-https://user-images.githubusercontent.com/107540845/173782996-dd5dddd2-677d-4dc1-8597-40bd70c912fb.mp4
+https://user-images.githubusercontent.com/107540845/173782996-dd5dddd2-677d-4dc1-8597-40bd70c912fb.mp4md
 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YangYUsc/-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
