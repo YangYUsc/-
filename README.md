@@ -1,4 +1,4 @@
-## 洋芋简历
+## 洋芋作品集
 
 You can use the [editor on GitHub](https://github.com/YangYUsc/-/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
